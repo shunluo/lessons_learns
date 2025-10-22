@@ -1,0 +1,8 @@
+We expected to dectec majority of the issues on pre-prod env, however we might miss some of them because we didn't understand the limit of the pre-prod well.
+
+In below aspects:
+1. The traffic volume of the pre-prod.
+2. All kinds of prod data types.
+3. Network policies
+4. Security restrictions
+5. External dependencies.
